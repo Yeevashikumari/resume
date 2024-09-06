@@ -1,0 +1,2 @@
+# resume
+Setting up git
